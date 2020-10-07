@@ -1,3 +1,5 @@
+// This program contains my practice with print statements
+
 package com.company;
 
 public class Main {
